@@ -1,5 +1,6 @@
 
 //a532667206798ba671c1714ecd7ce2f1
+//new
 //api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 const weatherApi= {
     key:"a532667206798ba671c1714ecd7ce2f1",
@@ -88,4 +89,3 @@ function dateManage(dateArg) {
 
     return `${date} ${month} (${day}), ${year}`;
 }
-
