@@ -1,5 +1,5 @@
 <html>
-<h1>Weather Application<h1>
+<h1>Weather Application</h1>
 <p>Overview The Weather Application is a user-friendly web tool that provides real-time temperature updates for any location. It features a responsive design and an intuitive interface, making it accessible on various devices.</p>
 
 <h2>Features</h2>
