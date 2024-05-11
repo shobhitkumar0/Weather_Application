@@ -26,5 +26,5 @@
 <p>Simply enter a location (e.g., “New York,” “Tokyo,” “Paris”) to receive the current temperature displayed on the screen.</p>
 <p>Contributing</p>
 
-<h3>Contributions are welcome! Submit a pull request for any proposed improvements or fixes.</h3>
+<p>Contributions are welcome! Submit a pull request for any proposed improvements or fixes.</p>
 </html>
